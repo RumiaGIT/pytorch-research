@@ -1,6 +1,6 @@
 # PyTorch Research
 
-Personal research performed to understand PyTorch's capabilities and possibilities. Said research mainly follows Daniel Bourke's "Learn PyTorch for deep learning in a day. Literally." course, available on YouTube, Freecodecamp, and Zerotomastery. Said handles a wide variety of topics, each given its own Jupyter Notebook file within this repository. In addition, Jupyter Notebooks containing additional exercises and extracurricular activities are available for each topic as well.
+Personal research performed to understand PyTorch's capabilities and possibilities. Said research mainly follows Daniel Bourke's *"PyTorch for Deep Learning"* course, available on YouTube, Freecodecamp, and Zerotomastery. Said handles a wide variety of topics, each given its own Jupyter Notebook file within this repository. In addition, Jupyter Notebooks containing additional exercises and extracurricular activities are available for each topic as well.
 
 ## Contents
 ~~~
