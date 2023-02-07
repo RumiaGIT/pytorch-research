@@ -6,11 +6,11 @@ Personal research performed to understand PyTorch's capabilities and possibiliti
 ~~~
 /images:                                   All images used as visual aid inside the Notebook files.
 /models:                                   All models generated during certain code examples.
-00-pytorch-fundamentals-exercises.ipynb:   Exercises to practice the fundamentals.
-00-pytorch-fundamentals.ipynb:             Introduction to PyTorch and Neural Network fundamentals.
-01-pytorch-workflow-exercises.ipynb:       Exercises to practice the example workflow.
-01-pytorch-workflow.ipynb:                 Explanation and usage of an example PyTorch workflow.
-02-pytorch-classification.ipynb:           Explanation on classification problems in machine learning.
+00_pytorch_fundamentals_exercises.ipynb:   Exercises to practice the fundamentals.
+00_pytorch_fundamentals.ipynb:             Introduction to PyTorch and Neural Network fundamentals.
+01_pytorch_workflow_exercises.ipynb:       Exercises to practice the example workflow.
+01_pytorch_workflow.ipynb:                 Explanation and usage of an example PyTorch workflow.
+02_pytorch_classification.ipynb:           Explanation on classification problems in machine learning.
 README.MD:                                 You're reading it.
 helper_functions.py:                       Various Python helper functions for visualization purposes.
 ~~~
