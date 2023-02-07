@@ -11,6 +11,6 @@ Personal research performed to understand PyTorch's capabilities and possibiliti
 01_pytorch_workflow_exercises.ipynb:       Exercises to practice the example workflow.
 01_pytorch_workflow.ipynb:                 Explanation and usage of an example PyTorch workflow.
 02_pytorch_classification.ipynb:           Explanation on classification problems in machine learning.
-README.MD:                                 You're reading it.
+README.md:                                 You're reading it.
 helper_functions.py:                       Various Python helper functions for visualization purposes.
 ~~~
