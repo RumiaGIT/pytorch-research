@@ -15,6 +15,8 @@ Personal research performed to understand PyTorch's capabilities and possibiliti
 02_pytorch_classification_exercises.ipynb:     Exercises to practice classification.
 03_pytorch_computer_vision.ipynb:              Explanation of computer vision in machine learning.
 03_pytorch_computer_vision_exercises.ipynb:    Exercises to practice computer vision.
+04_pytorch_custom_datasets.ipynb:              Explanation of working with custom datasets.
+04_pytorch_custom_datasets_exercises.ipynb:    Exercises to practice working with custom datasets.
 README.md:                                     You're reading it.
 helper_functions.py:                           Various Python helper functions for visualization purposes.
 ~~~
