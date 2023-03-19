@@ -7,6 +7,7 @@ Personal research performed to understand PyTorch's capabilities and possibiliti
 /data:                                         External datasets used in the Notebook files.
 /images:                                       All images used as visual aid inside the Notebook files.
 /models:                                       All models generated during certain code examples.
+/modular_scripts:                              All Python scripts created in chapter 5: Going Modular.
 00_pytorch_fundamentals.ipynb:                 Introduction to PyTorch and Neural Network fundamentals.
 00_pytorch_fundamentals_exercises.ipynb:       Exercises to practice the fundamentals.
 01_pytorch_workflow.ipynb:                     Explanation and usage of an example PyTorch workflow.
@@ -17,6 +18,7 @@ Personal research performed to understand PyTorch's capabilities and possibiliti
 03_pytorch_computer_vision_exercises.ipynb:    Exercises to practice computer vision.
 04_pytorch_custom_datasets.ipynb:              Explanation of working with custom datasets.
 04_pytorch_custom_datasets_exercises.ipynb:    Exercises to practice working with custom datasets.
+05_pytorch_going_modular.ipynb:                Explanation of modular Python scripts.
 README.md:                                     You're reading it.
 helper_functions.py:                           Various Python helper functions for visualization purposes.
 ~~~
