@@ -19,6 +19,9 @@ Personal research performed to understand PyTorch's capabilities and possibiliti
 04_pytorch_custom_datasets.ipynb:              Explanation of working with custom datasets.
 04_pytorch_custom_datasets_exercises.ipynb:    Exercises to practice working with custom datasets.
 05_pytorch_going_modular.ipynb:                Explanation of modular Python scripts.
+05_pytorch_going_modular_exercises.ipynb:      Exercises to practice making modular scripts.
+06_pytorch_transfer_learning.ipynb:            Explanation of transfer learning.
+06_pytorch_transfer_learning_exercises.ipynb:  Exercises to practice transfer learning.
 README.md:                                     You're reading it.
 helper_functions.py:                           Various Python helper functions for visualization purposes.
 ~~~
