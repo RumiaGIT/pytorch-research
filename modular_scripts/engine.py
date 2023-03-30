@@ -80,7 +80,9 @@ def train(model: torch.nn.Module,
           loss_fn: torch.nn.Module,
           optimizer: torch.optim.Optimizer,
           metric_fn: torchmetrics.classification,
-          epochs: int) -> Dict[str, List]:
+          epochs: int,
+          results: bool = False
+) -> Dict[str, List]:
     """
     Trains and tests a PyTorch model.
     
@@ -120,4 +122,5 @@ def train(model: torch.nn.Module,
         results["test_loss"].append(test_loss)
         results["test_acc"].append(test_acc)
         
-    #return results
+    if results:
+        return results
